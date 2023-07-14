@@ -3,7 +3,7 @@
 ## Checklist
 
 1. Download all google takeout data via https://takeout.google.com/settings/takeout
-  - Use 10gb chunk size for manageable downloading
+      - Use 10gb chunk size for manageable downloading
 2. Download all github data via https://github.com/settings/admin
 3. Backup momentodb on phone
 4. Backup signal on phone
